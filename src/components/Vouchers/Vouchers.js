@@ -1,7 +1,7 @@
-import v1 from "./v1.png";
-import m from "./Rectangle 18.png";
-import m2 from "./Rectangle 55.png";
-import mobile from "./Mobile app.png";
+import v1 from "../../assets/v1.png";
+import m from "../../assets/Rectangle 18.png";
+import m2 from "../../assets/Rectangle 55.png";
+import mobile from "../../assets/Mobile app.png";
 
 function Vouchers() {
   return (

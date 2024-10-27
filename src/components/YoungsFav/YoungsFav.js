@@ -1,6 +1,6 @@
-import youngs from "./youngs.png";
-import i1 from "./i1.png";
-import i2 from "./i2.png";
+import youngs from "../../assets/youngs.png";
+import i1 from "../../assets/i1.png";
+import i2 from "../../assets/i2.png";
 
 function YongsFav() {
   return (

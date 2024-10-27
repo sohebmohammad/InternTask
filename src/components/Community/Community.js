@@ -1,4 +1,4 @@
-import c from "./c.png";
+import c from "../../assets/c.png";
 
 function Community() {
   return (

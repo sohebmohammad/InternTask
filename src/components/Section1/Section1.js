@@ -1,4 +1,4 @@
-import img1 from "./img1.png";
+import img1 from "../../assets/img1.png";
 function Section1() {
   return (
     <>

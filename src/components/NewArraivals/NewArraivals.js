@@ -1,7 +1,7 @@
-import name from "./name.png";
-import m1 from "./m1.png";
-import m2 from "./m2.png";
-import m3 from "./m3.png";
+import name from "../../assets/name.png";
+import m1 from "../../assets/m1.png";
+import m2 from "../../assets/m2.png";
+import m3 from "../../assets/m3.png";
 
 function NewArraivals() {
   return (

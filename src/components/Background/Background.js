@@ -1,4 +1,4 @@
-import s from "./Frame 18.png";
+import s from "../../assets/Frame 18.png";
 
 function Background() {
   return (

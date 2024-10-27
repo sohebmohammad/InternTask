@@ -1,9 +1,9 @@
-import b1 from "./b1.png";
-import b2 from "./b2.png";
-import b3 from "./b3.png";
-import b4 from "./b4.png";
-import b5 from "./b5.png";
-import b6 from "./b6.png";
+import b1 from "../../assets/b1.png";
+import b2 from "../../assets/b2.png";
+import b3 from "../../assets/b3.png";
+import b4 from "../../assets/b4.png";
+import b5 from "../../assets/b5.png";
+import b6 from "../../assets/b6.png";
 import "./Brands.css"; // Assuming you are storing CSS in Brands.css
 
 function Brands() {

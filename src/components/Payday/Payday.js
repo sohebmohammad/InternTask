@@ -1,5 +1,5 @@
-import paydayImg from "./paydayImg.png";
-import paylogo from "./payllogo.png";
+import paydayImg from "../../assets/paydayImg.png";
+import paylogo from "../../assets/payllogo.png";
 
 function Payday() {
   return (
